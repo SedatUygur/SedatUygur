@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📫 How to reach me
 - Email: sedat.uygur@outlook.com
-- LinkedIn: [Sedat Uygur](https://www.linkedin.com/in/sedatuygur/)
+- LinkedIn: [Sedat Uygur](https://www.linkedin.com/in/sedat-can-uygur/)
 - Twitter: [@_SedatUygur](https://x.com/_SedatUygur)
 
 ## ⚡ Fun fact
